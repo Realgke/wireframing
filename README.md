@@ -33,9 +33,9 @@ Shows where text, images, or interactive elements will appear.
 Highlights how different elements are intended to work.  
 - **Example**: A search bar placed at the top of the page indicates users can type queries to quickly find content.
 
----
-
 Wireframes bring these elements together to ensure that the design is **clear, intuitive, and user-centered** before investing time in detailed visuals or development.
+
+---
 
 ## Types of Wireframes
 
@@ -71,4 +71,24 @@ This wireframe shows a **detailed structure with images and refined layout**, wh
 High-fidelity wireframes like this are typically used **later in the design process** to:  
 - Test usability with near-realistic designs.  
 - Provide developers with a clearer reference for implementation.  
-- Align stakeholders on the final look and feel before moving into full visual design and coding.
+- Align stakeholders on the final look and feel before moving into full visual design and coding.  
+
+---
+
+## Popular Wireframing Tools
+
+There are many tools available to help create wireframes, each offering different strengths:
+
+- **Balsamiq** – Great for quick, low-fidelity sketch-style wireframes.  
+- **Sketch** – Popular with designers for creating detailed wireframes and UI designs, mainly for macOS users.  
+- **Adobe XD** – A versatile tool that supports both wireframing and interactive prototyping.  
+- **Figma** – A web-based, collaborative design tool that supports real-time editing and sharing.
+
+### Why Figma is Recommended
+Figma stands out as a **highly recommended tool for wireframing** because:
+- It’s **cloud-based**, so you can work from any device with internet access.  
+- Supports **real-time collaboration**, making it easy for teams and stakeholders to work together.  
+- Offers a wide range of **UI kits and templates** to speed up the wireframing process.  
+- Allows seamless transition from **low-fidelity wireframes to high-fidelity prototypes** within the same platform.  
+
+In short, Figma is powerful, flexible, and beginner-friendly, making it one of the best tools for both individuals and teams.
